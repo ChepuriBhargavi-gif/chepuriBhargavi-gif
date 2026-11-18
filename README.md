@@ -8,7 +8,7 @@
 
 💻 Passionate about developing web applications and solving real-world problems.
 
-🌱 Currently learning Python, Django, React.js, and SQL.
+- 🛠️ Technical Skills: HTML5, CSS3, JavaScript, Python, NumPy, Pandas, Matplotlib, Django, and SQL.
 
 🔭 Working on projects using Python, Django, HTML, CSS, and JavaScript.
 
@@ -19,9 +19,6 @@
 🚀 Building practical projects to improve my development and problem-solving skills.
 
 🎯 Looking for entry-level opportunities to start my career as a developer.
-
-🌐 Socials
-
 
 
 💻 Tech Stack
@@ -44,7 +41,7 @@ Banking Management System – Python, OOP, Database
 
 ShopSphere E-Commerce Website – HTML, CSS, JavaScript
 
-Audio E-Book Reader – Python,gTTs,pypdf
+Audio E-Book Reader – Python,gTTS,pypdf
 
 Web Scraping - Python,requests,BeautifulSoup
 
