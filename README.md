@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hey Everyone! I'm [Chepuri Bhargavi](https://github.com/Vasukumar3) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Chepuri Bhargavi](https://github.com/ChepuriBhargavi-gif/chepuriBhargavi-gif) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 💫 About Me
 
